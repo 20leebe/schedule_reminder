@@ -1,0 +1,22 @@
+{
+    "name": "School Schedule Reminder",
+    "description": "Gives a reminder of the schedule for the day",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup":"index.html",
+        "default_icon":{
+            "16": "./images/alien1.png",
+            "32": "./images/alien1.png",
+            "48": "./images/alien1.png",
+            "128": "./images/alien1.png"
+        }
+    },
+    "icons":{
+        "16": "./images/alien1.png",
+        "32": "./images/alien1.png",
+        "48": "./images/alien1.png",
+        "128": "./images/alien1.png"
+        }, 
+    "permissions": ["storage", "activeTab", "scripting"]
+}

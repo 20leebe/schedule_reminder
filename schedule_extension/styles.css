@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    width: 400px;
+}
+#selected {
+    background-color: #808080;
+}
+.time {
+    float: left;
+    width: 30%;
+    border: 1px solid black;
+}
+.class {
+    float: left;
+    border: 1px solid black;
+    width: 70%
+}
+
